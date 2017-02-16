@@ -1,10 +1,19 @@
 # Funday
 
+
 Sean Hickey
-<<<<<<< HEAD
 
 =======
+=======
+
+>>>>>>> origin/master
 Shannon Ellis
+
+
+<3 Sarah
+
 Ethan Roe
-Cindy Quinn
+>>>>>>> origin/master
+=======
+
 >>>>>>> origin/master
