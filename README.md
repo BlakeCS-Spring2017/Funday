@@ -1,3 +1,4 @@
 # Funday
 
-Genesis Bundt
+Sean Hickey
+
